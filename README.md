@@ -21,6 +21,6 @@ The story is based on Lay's, a small dog who has just lost his family because th
 ## 	🧑‍🤝‍🧑: Characters
 
 <p align = "center">
-	<img src = ""/>
+	<img src = "./"/>
 </p>
 
