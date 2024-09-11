@@ -19,3 +19,8 @@
 The story is based on Lay's, a small dog who has just lost his family because they were moving to a new city, so this little dog decides to go in search of his family throughout the continent until he finds it.
 
 ## 	🧑‍🤝‍🧑: Characters
+
+<p align = "center">
+	<img src = ""/>
+</p>
+
